@@ -1,0 +1,48 @@
+# ===== Java / Maven (backend) =====
+target/
+!.mvn/wrapper/maven-wrapper.jar
+*.class
+*.jar
+!maven-wrapper.jar
+hs_err_pid*
+
+# ===== Node / Vite (frontend) =====
+node_modules/
+.pnp/
+dist/
+build/
+.vite/
+coverage/
+*.tsbuildinfo
+
+# ===== Environment & secrets =====
+.env
+.env.*
+!.env.example
+application-local.properties
+application-secret.properties
+*.pem
+*.key
+
+# ===== Database dumps =====
+*.sqlite
+*.db
+dump/
+
+# ===== Uploads (user-generated) =====
+uploads/
+user_uploads/
+
+# ===== Logs =====
+*.log
+logs/
+npm-debug.log*
+
+# ===== IDE =====
+.idea/
+.vscode/
+*.iml
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
