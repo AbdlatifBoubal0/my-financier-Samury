@@ -213,12 +213,12 @@ Full details in [database-schema.md](docs/database-schema.md).
 | [Database Schema](docs/database-schema.md) | Entities, indexes, modelling decisions |
 | [Frontend](docs/front-end.md) | Client stack, routing, state, data layer |
 | [Project Structure](STRUCTURE.md) | Folder layout of the real codebase |
-| [.env.example](.env.example) | Required configuration (names only) |
+| [.env.example](../.env.examplef) | Required configuration (names only) |
 
 ---
 
 ## Contact
 
-**BOUBAL ABDELLATIF** — [email] · [LinkedIn] · [Portfolio]
+**BOUBAL ABDELLATIF** — [abdltifboubal.p@gmail.com] · [ www.linkedin.com/in/abdlatif-boubal-308651245 ]
 
 *Source code available on request for recruitment purposes.*
