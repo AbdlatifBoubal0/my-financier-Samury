@@ -1,4 +1,4 @@
-# My Financier — Personal Finance Manager
+# Rasid-رصيد — Personal Finance Manager
 
 > A personal finance application for tracking income, expenses, wallets, budgets, loans and Zakat, with categorised analytics and spending insights. Backend in **Spring Boot**, frontend in **React + TypeScript**.
 >
